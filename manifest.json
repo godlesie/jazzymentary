@@ -1,0 +1,7 @@
+{
+  "name": "Jazzymentary",
+  "short_name": "Jazzymentary",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone"
+}
