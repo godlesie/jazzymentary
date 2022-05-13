@@ -1,4 +1,4 @@
-baseURL: https://godlesie.github.io/jazzymentary
+baseURL: '/'
 languageCode: en-us
 title: Jazzymentary
 theme: Eclectic
