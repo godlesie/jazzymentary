@@ -25,10 +25,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '17.x'
-      - name: Install NPM Dependencies
-        run: npm i
-      - name: Pack npm
-        run: hugo mod npm pack
+      #- name: Install NPM Dependencies
+      #  run: npm i
+      #- name: Pack npm
+      #  run: hugo mod npm pack
       
       - name: Build
         run: hugo --minify --baseUrl=https://godlesie.github.io/jazzymentary
