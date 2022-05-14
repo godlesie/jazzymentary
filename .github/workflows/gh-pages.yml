@@ -9,10 +9,11 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
         with:
+          submodules: recursive  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -20,12 +21,21 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '17.x'
+      - name: Install NPM Dependencies
+        run: npm i
+      - name: Pack npm
+        run: hugo mod npm pack
+      
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseUrl=https://godlesie.github.io/jazzymentary
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
