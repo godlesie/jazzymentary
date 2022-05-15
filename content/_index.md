@@ -3,6 +3,7 @@ title: Jazzymentary
 subtitle: "blog o jazzie"
 type: default
 outputs: [html, json]
+draft: false
 ---
 Jazz ma wiele oblicz. Właściwie jest ich dzisiątki, a jego historia sięga już
 ponad stu lat. Powszechnie ocenia się, że jego style zmieniały się co dziesięć lat.
