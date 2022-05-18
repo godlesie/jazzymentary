@@ -123,8 +123,7 @@ a {
     filter: brightness(85%); }
 
 strong {
-  font-style: normal;
-  font-weight: 500; }
+  font-style: normal; }
 
 blockquote {
   margin: 40px 0;
