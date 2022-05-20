@@ -1,6 +1,7 @@
 description: "Wortal o Jazzie"
 scss: true
 copyright: 2021-{now} jgdlws
+color: "000fff"
 
 footer:
   - title: Historie
