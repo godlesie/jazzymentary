@@ -3,7 +3,7 @@
   "short_name": "Jazzymentary",
   "start_url": "/",
   "scope": "/",
-  "theme_color": "000fff",
-  "background_color": "000fff",
+  "theme_color": "7cfc00",
+  "background_color": "7cfc00",
   "display": "standalone"
 }
