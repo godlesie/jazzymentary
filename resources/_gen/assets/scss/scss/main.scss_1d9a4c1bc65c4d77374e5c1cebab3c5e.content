@@ -2,7 +2,7 @@
 /*
   Hello*/
 :root {
-  --theme-color-rgb: 0, 15, 255; }
+  --theme-color-rgb: 124, 252, 0; }
 
 :root {
   --max-width: 100vw;
