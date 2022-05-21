@@ -1958,15 +1958,6 @@ header {
   .post main > p {
     font-size: 16px;
     line-height: 30px; }
-    .post main > p:first-of-type:first-letter {
-      color: var(--theme-color);
-      margin-top: 7px;
-      margin-right: 5px;
-      float: left;
-      font-size: 80px;
-      line-height: 80px;
-      font-family: NouveauDropCaps, serif;
-      font-display: optional; }
   .post main > ul > li, .post main > ol > li {
     font-size: 16px;
     line-height: 30px; }

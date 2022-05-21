@@ -5,7 +5,7 @@ color: "000fff"
 
 footer:
   - title: Historie
-    recents: histories
+    recents: history
     recentCount: 3
   - title: Artyści
     recents: artists

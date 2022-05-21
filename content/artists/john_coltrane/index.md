@@ -7,6 +7,7 @@ date: 2021-12-01T00:00:00Z
 style: [beebop]
 instrumenty: [tenor sax]
 born: ccc
+draft: true
 ---
 
 To jest geniusz saksofonu

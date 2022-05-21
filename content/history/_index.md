@@ -1,6 +1,7 @@
 ---
 title: Historie
 subtitle: Opowieści o jazzie
+type: _defualt
 ---
 Jazz to nie tylko zespoły i artyści, ale także miasta, pojęcia, tło rasowe i polityczne.
 Uczestniczył on w najważniejszych wydarzeniach 20 wieku. Obu wojnach światowych, przemianach społecznych,

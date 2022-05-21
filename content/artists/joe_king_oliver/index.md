@@ -7,4 +7,5 @@ date: 2021-12-03T00:00:00Z
 style: [nowoorleański]
 instruments: [kornet]
 born: ccc
+draft: true
 ---
