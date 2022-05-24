@@ -1,11 +1,23 @@
 ---
 title: Scott Joplin
-subtitle: Twórca ragtime
-description: Twórca ragtime'a
+subtitle: Król ragtime'u
+description: Król ragtime'u
 type: post
-date: 2021-12-03T00:00:00Z
+date: 2022-05-21
 style: [ragtime]
 instrumenty: [piano]
-born: ccc
-draft: true
+born: 1868
+draft: false
+dead: 1917
 ---
+Przypominacie sobie sławetny film *"Ządło"*?. Tam właśnie wskrzeszono __Ragitme__. Choć __Scot Joplin__ nie był
+jego twórcą, to właśnie z nim go kojarzymy. Jego muzyka była bardziej europejska niż jazzowa. Marszowa, bez improwizacji.
+Dlatego jego styl nie jest oficjalnie zaliczany do __jazzu__. Ale było wstępem fo niego.
+{{<divider>}}
+Pochodził z Teksasu, czyli klasycznie - z południa. Samouk, co w tamtych czasach nie dziwne, tyle że pochodził z muzycznej
+rodziny. Pracował też na kolei, ale rzucił to dla grania jako wędrowny muzyk. I w końcu trafił na targi światowe w Chicago,
+gdzie jego muzyka stała się hitem.
+
+Ostatecznie osiadł w Nowym Jorku. Tam też zmarł. Pozostawił po sobie oprócz dziesiątek __ragtime'ów__, wśród któ©ych najpopularniejsze
+to _The Entertimer_ i _Maple Leaf Rag_, równierz dwie opery i szkołę __ragtime'u__. Jego styl przez wiele lat pozostawał w cieniu, 
+aż w latach 70-tych odkrył go na nowo amerykański muzykolog i pianista __Joshua Rifkin__.
