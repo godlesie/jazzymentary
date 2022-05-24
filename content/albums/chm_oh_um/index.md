@@ -4,6 +4,7 @@ nagrania: beebop
 subtitle: Charles Mingus
 description: Charles Mingus
 publishDate: 1959
+date: 2022-05-03
 year: 1959
 type: albums
 futured: [

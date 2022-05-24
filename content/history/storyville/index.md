@@ -4,6 +4,7 @@ subtitle: Dzielnica bezprawia
 #type: history
 description: Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu.
 summary: Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu.
+date: 2022-05-02
 ---
 Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu. To tam, według własnej legendy,
 __Jelly Roll Morton__ wymyślił __jazz__. Tu też wychował się __Louis Armstrong__, a trąbkę __Buddy Boldena__

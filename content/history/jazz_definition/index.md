@@ -2,6 +2,7 @@
 title: Jazz
 subtitle: Próba definicji
 type: _default_
+date: 2022-05-01
 description: Podobnie jak wiele pojęć z zakresu kultury jazz trudno jest zdefiniować jednoznacznie.
 summary: Podobnie jak wiele pojęć z zakresu kultury jazz trudno jest zdefiniować jednoznacznie.
 ---

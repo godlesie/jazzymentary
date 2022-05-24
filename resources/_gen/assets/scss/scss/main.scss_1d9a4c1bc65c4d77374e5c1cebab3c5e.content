@@ -1279,9 +1279,11 @@ header {
     cursor: pointer;
     color: var(--background-color);
     background: var(--theme-color);
+    color: black;
     display: block; }
     .terms label h4 a {
-      color: var(--background-color); }
+      color: var(--background-color);
+      color: black; }
     .terms label::after {
       float: right;
       content: "\276F";
@@ -1312,7 +1314,8 @@ header {
   .terms li:last-child input:checked ~ ul {
     border-bottom: 1px solid var(--theme-color);
     border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px; }
+    border-bottom-right-radius: 5px;
+    color: black; }
 
 .blog-posts {
   width: 100%;

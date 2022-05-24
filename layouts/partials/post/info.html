@@ -4,19 +4,6 @@
   <table>
     <tbody>
     <tr>
-      <th class="published" title="Published">
-      {{- partialCached "util/icon" (dict "key" "calendar" "size" 20) "calendar-20" -}}
-        <span>Opublikowany</span>
-      </th>
-      <td>
-        {{- $date := .PublishDate -}}
-        {{- if not $date -}} 
-        {{- $date = .Lastmod -}}
-        {{- end -}}
-        <time datetime="{{ $date.Format " 2006-01-02T15:04:05Z07:00 " }}">{{ $date.Format "Monday, Jan 2, 2006."}}</time>
-      </td>
-    </tr>
-    <tr>
       <th class="born" title="born">
         {{- partialCached "util/icon" (dict "key" "calendar" "size" 20) "calendar-20" -}}
         <span>Życie</span>
@@ -24,13 +11,13 @@
       </th>
     </tr>
 
-  {{with .Params.categories}}
+  {{with .Params.instrumenty}}
   <tr>
    <th class="category" title="Category">
      {{- partialCached "util/icon" (dict "key" "caret-square-o-right" "size" 20) "caret-square-o-right-20" -}}
      <span>Instrumenty</span></th>
        <td>{{ range . }}
-         <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }}</a>
+         <a  style="color: black;" href="{{ "/instrumenty/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }}</a>
          {{end}}
        </td>
   </tr>
@@ -40,8 +27,8 @@
     <th class="tags" title="Tags">
       {{- partialCached "util/icon" (dict "key" "tags" "size" 20) "tags-20" -}}
       <span>Styl<br></span></th>
-      <td>{{- range .Params.tags -}}
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }} </a>
+      <td>{{- range .Params.style -}}
+        <a style="color: black;" href="{{ "/style/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }} </a>
       {{- end -}}
     </td>
   </tr>

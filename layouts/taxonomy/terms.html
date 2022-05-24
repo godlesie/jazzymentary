@@ -21,7 +21,7 @@
 </label>
 <ul>
     {{ range $pages }}
-    <li hugo-nav="{{ .RelPermalink}}"><a
+    <li hugo-nav="{{ .RelPermalink}}"><a style="color: black;"
             href="{{ .RelPermalink}}">{{ default (.File.ContentBaseName | humanize) .LinkTitle }}</a></li>
     {{ end }}
 </ul>
