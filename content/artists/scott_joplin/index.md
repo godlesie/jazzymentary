@@ -12,7 +12,7 @@ dead: 1917
 ---
 Przypominacie sobie sławetny film *"Ządło"*?. Tam właśnie wskrzeszono __Ragitme__. Choć __Scot Joplin__ nie był
 jego twórcą, to właśnie z nim go kojarzymy. Jego muzyka była bardziej europejska niż jazzowa. Marszowa, bez improwizacji.
-Dlatego jego styl nie jest oficjalnie zaliczany do __jazzu__. Ale było wstępem fo niego.
+Dlatego jego styl nie jest oficjalnie zaliczany do __jazzu__. Ale było wstępem do niego.
 {{<divider>}}
 Pochodził z Teksasu, czyli klasycznie - z południa. Samouk, co w tamtych czasach nie dziwne, tyle że pochodził z muzycznej
 rodziny. Pracował też na kolei, ale rzucił to dla grania jako wędrowny muzyk. I w końcu trafił na targi światowe w Chicago,
