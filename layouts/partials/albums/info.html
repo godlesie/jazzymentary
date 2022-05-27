@@ -21,8 +21,8 @@
     <th class="tags" title="Tags">
       {{- partialCached "util/icon" (dict "key" "tags" "size" 20) "tags-20" -}}
       <span>Styl<br></span></th>
-      <td>{{- range .Params.tags -}}
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }} </a>
+      <td>{{- range .Params.nagrania -}}
+        <a style="color: black;" href="{{ "/nagrania/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }} </a>
       {{- end -}}
     </td>
   </tr>

@@ -1,6 +1,6 @@
 ---
 title: Mingus Ah Um
-nagrania: beebop
+nagrania: [beebop]
 subtitle: Charles Mingus
 description: Charles Mingus
 publishDate: 1959

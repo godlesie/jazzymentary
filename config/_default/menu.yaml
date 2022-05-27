@@ -28,8 +28,8 @@ main:
     parent: category
     url: /instrumenty
     weight: 600
-#  - identifier: records
-#    name: Nagrania
-#    parent: category
-#    url: /nagrania
-#    weight: 700
+  - identifier: records
+    name: Nagrania
+    parent: category
+    url: /nagrania
+    weight: 700
