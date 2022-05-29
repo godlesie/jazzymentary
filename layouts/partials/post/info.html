@@ -32,6 +32,18 @@
       {{- end -}}
     </td>
   </tr>
+  {{ if isset .Params "ogg" }}
+  <tr>
+    <td>
+      <figure>
+        <audio controls>
+          {{ with .Params.ogg }}<source src="{{ . }}" type="audio/ogg">{{ end }}
+        </audio>
+        <figcaption>{{ .Params.ogg_caption }}</figcaption>
+      </figure>
+    </td>
+  </tr>
+  {{end}}
   
 </tbody>
 </table>

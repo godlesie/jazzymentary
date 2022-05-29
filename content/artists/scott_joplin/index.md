@@ -9,6 +9,8 @@ instrumenty: [piano]
 born: 1868
 draft: false
 dead: 1917
+ogg: Maple_Leaf_RagQ.ogg
+ogg_caption: "Maple Leaf Rag"
 ---
 Przypominacie sobie sławetny film *"Ządło"*?. Tam właśnie wskrzeszono __Ragitme__. Choć __Scot Joplin__ nie był
 jego twórcą, to właśnie z nim go kojarzymy. Jego muzyka była bardziej europejska niż jazzowa. Marszowa, bez improwizacji.
