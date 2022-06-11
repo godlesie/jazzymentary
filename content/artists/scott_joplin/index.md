@@ -9,6 +9,7 @@ instrumenty: [piano]
 born: 1868
 draft: false
 dead: 1917
+standards: ["Maple Leaf Rag","The Entertainment"]
 ogg: Maple_Leaf_RagQ.ogg
 ogg_caption: "Maple Leaf Rag"
 ---
