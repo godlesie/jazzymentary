@@ -11,9 +11,9 @@ main:
     name: Albumy
     url: /albums
     weight: 300
-#  - identifier: standards
-#    name: Standardy
-##    url: /standards
+  - identifier: standards
+    name: Standardy
+    url: /standards
     weight: 400
   - identifier: category
     name: Kategorie

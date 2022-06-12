@@ -13,9 +13,9 @@ footer:
   - title: Albumy
     recents: albums
     recentCount: 3
-#  - title: Standardy
-#    recents: standards
-#    recentCount: 3
+  - title: Standardy
+    recents: standards
+    recentCount: 3
 
 outputs:
   home: 
