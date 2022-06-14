@@ -20,10 +20,17 @@ Jego zasługą było polączenie __ragtime__ z __bluesem__, adaptował też muzy
 w sekcji rytmicznej. W ogóle był pierwszy. Poodbno też to on wymyślił __funk__. Pewnie brzmi to dziwnie, znając _funkowe_ brzmienia
 gitary basowej i rozbudowanej perkusji, ale tak na prawdę chodzi tu o sposób prowadzenia sekcji rytmicznej. Nazywa się to _"wielką
 czwórką"_. Kto zna nuty:
-{{< figure src="../../media/image/bigfour.png" caption="Big Four">}}
+
+{{< figure src="../../media/image/bigfour.png" caption="Big Four" >}}
 Kto nie zna:
-{{< audio src="../../media/bigfour.mp3" >}}
+
+
+{{< audio src="../../audio/bigfour.mp3" >}}
+
+
 {{<divider>}}
+
+
 Jego kariera nie trwała długo. W 1907 roku w wyniku epizodu alkoholowego trafił do szpitala psychiatrycznego, w którym
 spędził resztę życia - ponad 25 lat. Stwierdzono u niego schizofrenię, choć dzisiejsi lekarze skłąniają się bardziej do
 tego, jakoby miał niedobory witamin, charakterystyczne dla czarnej biedoty południa.
