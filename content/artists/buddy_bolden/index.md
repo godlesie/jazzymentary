@@ -5,7 +5,7 @@ description: Król Bolden
 summary: Król Bolden
 type: post
 date: 2022-06-08
-style: [ragtime, nowoorleański]
+style: [ragtime, dixieland]
 instrumenty: [trąbka]
 born: 1877
 dead: 1931

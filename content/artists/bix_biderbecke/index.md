@@ -5,7 +5,7 @@ description: Bix
 summary: Bix
 type: post
 date: 2022-06-13
-style: [Nowoorleański]
+style: [dixieland]
 instrumenty: [trąbka, piano]
 born: 1903
 dead: 1931
