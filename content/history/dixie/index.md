@@ -18,10 +18,10 @@ w tym samym roku nagrał pierwszą stricte __jazzową__ płytę:
 
 {{< audio src="../../audio/Original_Dixieland_Jass_Band_-_Livery_Stable_Blues_(1917)_alternate_edit.ogg" >}}
 
-We wczesnych latach sekcję rytmiczną stanowiła tuba i banjo, które w czasach __chicagowskich__ zastępiły kontrabas
+We wczesnych latach sekcję rytmiczną stanowiła tuba i banjo, które w czasach __chicagowskich__ zastąpiły kontrabas
 i gitara. W sekcji melodycznej też zachodziły zmiany. Wpierw wszystkie instrumenty melodyczne grały jednocześnie
 melodię i improwizację. Formalnie, według teorii muzycznej, nazywa się to _polifonią_. Potem zaczęło się to zmieniać - 
-i znowu w __Chicago__. Ciężara melodyczny z _polifonii_ przesuwa się na jeden instrument, który prowadzi improwizację, a
+i znowu w __Chicago__. Ciężar melodyczny z _polifonii_ przesuwa się na jeden instrument, który prowadzi improwizację, a
 reszta czeka na swoją kolej. Dlatego też wyodrębniono nowy styl. W muzyce tej słychać już nadchodzący __Swing__.
 {{< youtube "playlist?list=OLAK5uy_m1_sIgVbJ7SHVeHJZCdbAkorVji6OOvVw" >}}
 {{<divider>}}

@@ -35,4 +35,4 @@ nie.
 Mówi się, że __swing__ jest nieodłączną częścią __jazzu__. I tu sprawa się komplikuje jeszcze bardziej. Według mnie
 nie każdy __swinguje__, np. __free jazz__ ma raczej z nim niewiele wspólnego. Dodatkowo w odniesieniu do innych
 gatunków muzycznych nie __jazzowych__. Tam też się __swinguje__. Częściowo dlatego, że inna muzyka też _"buja"_,
-częśiowo dlatego, że wpływy __jazzowe__, szczególnie w muzyce rozrywkowej są bardzo silne.
+częściowo dlatego, że wpływy __jazzowe__, szczególnie w muzyce rozrywkowej są bardzo silne.

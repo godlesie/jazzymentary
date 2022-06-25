@@ -14,11 +14,11 @@ na które składa się tak wieloznaczeniowe zjawisko.
 ## Skala bluesowa
 Kompozycje muzyczne wyrosłe na gruncie europejskiej tradycji w przeważającej części oparte są na dwóch skalach: 
 *majorowej* (durowej) i *minorowej* (molowej). Z kolei skale afrykańskiej tradycji często są oparte na tzw. *pentatonice*.
-O ile pierwsze skłądają się z 7 dźwięków, o tyle drugie z 5. Połączenie tych dwóch skal dało w wyniku *skalę bluesową*.
+O ile pierwsze składają się z 7 dźwięków, o tyle drugie z 5. Połączenie tych dwóch skal dało w wyniku *skalę bluesową*.
 Charakteryzuje się ona trzema tzw. *blue note* - czyli w języku nutowym *tercją małą*, *kwartą zwiększona* i *septymą małą*.
 Sprawa jest jak zwykle bardziej skomplikowana i warta osobnego postu, ale na teraz powinno wystarczyć.
 
-__Jazz__ w początkowych etapach rozwoju mocna eksploatowała tę skalę, podobnie zresztą jak formę i tematy bluesowe. Poźniej
+__Jazz__ w początkowych etapach rozwoju mocna eksploatowała tę skalę, podobnie zresztą jak formę i tematy bluesowe. Później
 związki te osłabły.
 
 ## Synkopowane rytmy
@@ -31,9 +31,9 @@ z akcentami na 1 i 3.
 
 ## Improwizacja
 Choć o tym często się nie mówi, w muzyce europejskiej istniała od dawna improwizacja. W jednej z form pozwalała ona na
-ozdabianie jakiś figurór muzycznych, co było dość powszechne. W solowych koncertach klasycystycznych stosowano tzw. *cody*,
-gdzie dawano upust umiejętnościom improwizacyjnym solisty. W __jazzie__ sytuacja jest odwrotna - to inprowizacja stanowi 
-sedno utworu: temat - improwizacja - temat. Taki jest schemat typowego utowru jazzowego.
+ozdabianie jakiś figur muzycznych, co było dość powszechne. W solowych koncertach klasycystycznych stosowano tzw. *cody*,
+gdzie dawano upust umiejętnościom improwizacyjnym solisty. W __jazzie__ sytuacja jest odwrotna - to improwizacja stanowi 
+sedno utworu: temat - improwizacja - temat. Taki jest schemat typowego utworu jazzowego.
 
 ## Swing
 Swing ma dwa znaczenia. Pierwsze dotyczy stylu jazzowego, powstałego około lat 30-tych ubiegłego stulecia. Drugie znaczenie

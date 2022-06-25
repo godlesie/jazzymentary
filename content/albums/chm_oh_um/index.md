@@ -35,7 +35,7 @@ Czyli __Mingus Minugu Minga__. Tytuł ten został włączony do __Grammy Hall of
 w 2020 roku umieścił go na 380 miejscu wśród 500 najlepszych albumów wszechczasów.
 
 Dla mnie była objawieniem. Od dawna wiedziałem, że __Igor Strawiński__ często inspirował się jazzem i mam wrażenie,
-że to był dokładnie ten jego rodzaj - połąmane beebopowe rytmym, rozbudowana forma, Big Bandowy skład.
+że to był dokładnie ten jego rodzaj - połamane beebopowe rytmy, rozbudowana forma, Big Bandowy skład.
 Kompozycje są hołdem dla starych mistrzów jazzu: __Duka Ellingtona__, __Jerry Roll Mortona__, __Lestera Youna__,
 i __Sonny'ego Rollinsa__ a także Gospel.
 {{<youtube "playlist?list=OLAK5uy_kexAt83Cfnr2TrBlrE9k2YM1ZrSZKq6kk">}}

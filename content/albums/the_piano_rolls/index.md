@@ -27,11 +27,11 @@ track: [
 ]
 draft: false
 ---
-Na początku XX wieku sposóbów nagrywania, a właściwie utrwalania dźwięku było kilka.
+Na początku XX wieku sposobów nagrywania, a właściwie utrwalania dźwięku było kilka.
 Oprócz rolek woskowych, popularne były tzw. _piano rolls_, czyli dziurkowane roku papieru,
 które odtwarzana na specjalnych mechanicznych pianinach
 {{<figure src="../../media/image/PlayerPianoRoll.jpg" alt="Piano Roll" title="Piano Roll">}}
-__Jelly Roll Morton__ _"nagrał"_ kilka takich rolek, które w latach 90-tych __Artis Wodehouse__ zaanalizował,
+__Jelly Roll Morton__ _"nagrał"_ kilka takich rolek, które w latach 90-tych __Artis Wodehouse__ zanalizował,
 i odtworzył na specjalnym pianinie w sali koncertowej. Powstał z tego album, który w możliwie (oczywiście nie idealny)
 sposób oddawał styl i sposób gry __Mortona__.
 

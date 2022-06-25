@@ -11,7 +11,7 @@ born: 1886
 dead: 1973
 draft: false
 ---
-Był pierwszym muzykiem, który dotarł z __jazzem__ na zachodznie wybrzeże - do _Los Angeles_.
+Był pierwszym muzykiem, który dotarł z __jazzem__ na zachodnie wybrzeże - do _Los Angeles_.
 Urodzony w Luizjanie, na prowincji, karierę swoją rozpoczynał oczywiście w _Nowym Orleanie_, gdzie
 został odkryty przez __Buddy Boldena__. Nie grał z nim jednak. Sprowadził swoją orkiestrę z rodzinnego
 _Laplace_ w 1910 roku. Był to jeden z najważniejszych i najpopularniejszych zespołów tamtego okresu.

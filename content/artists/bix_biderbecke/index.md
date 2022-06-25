@@ -15,7 +15,7 @@ Syn niemieckich emigrantów - stąd imię Bismark. Jego rodzina była całkiem z
 sensie zadaje kłam supremacji afroamerykanów w __jazzie__. Matka grywała w kościele na organach i zaraziła go
 grą na instrumentach - fortepianie i kornecie, a brat przywiózł z wojny gramofon - stąd miłość do __jazzu__.
 
-W wyniku oskarżenia o molestowanie 5-letniej (!sic) dzieczynki rodzice wysłali go do prywatnej szkoły z internatem
+W wyniku oskarżenia o molestowanie 5-letniej (!sic) dziewczynki rodzice wysłali go do prywatnej szkoły z internatem
 na północ od __Chicago__. Paradoksalnie dało mu to możliwość odwiedzania tego miasta i słuchania najlepszej ówcześnie
 muzyki.
 

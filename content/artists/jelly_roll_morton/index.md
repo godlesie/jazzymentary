@@ -23,7 +23,7 @@ w Chicago, Nowym Jorku i Waszyngtonie.
 
 Od 1926 roku systematycznie też nagrywał dla wytwórni _RCA Victor_. Niestety dopadł go, jak wielu innych wielki kryzys
 tamtych lat. Z punktu widzenia historii jego najważniejszym nagraniem był ośmiogodzinny wywiad dla Biblioteki Kongresu,
-zrealizowany w 1935 przez sławnego etnografa __Alana Lomaxa__. Okraszony przykładami muzycznymi stał się noeocenionym źródłem
+zrealizowany w 1935 przez sławnego etnografa __Alana Lomaxa__. Okraszony przykładami muzycznymi stał się nieocenionym źródłem
 wiedzy o wczesnym __jazzie__.
 
 Skończył tragicznie. Ugodzony w 1938 nożem w klubie _Music Box_ w Waszyngtonie nigdy nie wylizał się z zadanych mu ran
