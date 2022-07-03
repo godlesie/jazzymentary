@@ -7,16 +7,18 @@ summary: Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu.
 date: 2022-05-02
 ---
 Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu. To tam, według własnej legendy,
-__Jelly Roll Morton__ wymyślił __jazz__. Tu też wychował się __Louis Armstrong__, a trąbkę __Buddy Boldena__
-słychać było w całej dzielnicy.
+__[Jelly Roll Morton]({{< ref  "/artists/jelly_roll_morton" >}})__ wymyślił __jazz__. 
+Tu też wychował się __[Louis Armstrong]({{< ref "/artists/luis_armstrong" >}})__, 
+a trąbkę __[Buddy Boldena]({{< ref "/artists/buddy_bolden" >}})__ słychać było w całej dzielnicy.
 
 W owych czasach Nowy Orlean był ważnym portem i w dodatku wojennym. A jacy są marynarze i żołnierze *każden wie*.
-Dzielnica __Storyville__ nadawała się do tego idealnie. Istniała między 1897 a 1917 rokiem i nigdy się
-tak nie nazywała. To pisarze i dziennikarze wymyślili nazwę __Storyville__. 
+Dzielnica _Storyville_ nadawała się do tego idealnie. Istniała między 1897 a 1917 rokiem i nigdy się
+tak nie nazywała. To pisarze i dziennikarze wymyślili nazwę _Storyville_. 
 
 Miasto było jedną wielką mieszanką etniczną - biali i czarni, kreole (potomkowie francuskich osadników), hiszpanie i włosi, kubańczycy, 
 haitańczycy i kto ich tam jeszcze wie. I co za tym idzie na ulicach rozbrzmiewała także ich muzyka: francuskie arie operowe, piosenki
-neapolitańskie, grane na bębnach rytmy afrykańskie, dźwięki z Haiti i Kuby, wreszcie __blues__ z Delty Mississipi i __ragtime__.
+neapolitańskie, grane na bębnach rytmy afrykańskie, dźwięki z Haiti i Kuby, wreszcie __blues__ z Delty Mississipi i 
+__[ragtime]({{< ref "/history/ragtime" >}})__.
 
 Czarni muzycy wiedli prym wśród muzyków, dając występy tak w burdelach i kawiarniach, jak i na ekskluzywnych imprezach. Grali nową muzykę - 
 mieszankę europejskich skal i instrumentów z afrykańskimi rytmami i pentatoniką. Była jednocześnie żywiołowa i melancholijna, durowa i molowa, 

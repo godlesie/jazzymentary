@@ -11,11 +11,12 @@ born: 1881
 dead: 1938
 draft: false
 ---
-__Louis Armstrong__ twierdził, że bez __Kinga Olivera__ nie istniałby __jazz__. Klasycznie - 
-wychował się w _Nowym Orleanie_, a grywał w najróżnorodniejszych __jazz bandach__ w _Storyville_.
+__[Louis Armstrong]({{< ref "/artists/luis_armstrong" >}})__ twierdził, że bez __Kinga Olivera__ nie istniałby __jazz__. Klasycznie - 
+wychował się w _Nowym Orleanie_, a grywał w najróżnorodniejszych __jazz bandach__ w _[Storyville]({{< ref "history/storyville" >}})_.
 Był w owym czasie najbardziej rozchwytywanym muzykiem.
 
-Po zamknięciu dzielnicy _Storyville_ trafił do _Chicago_, dokąd sprowadził __Louisa Armstronga__.
+Po zamknięciu dzielnicy _[Storyville]({{< ref "history/storyville" >}})_ trafił do _Chicago_, dokąd sprowadził 
+__[Louisa Armstronga]({{< ref "/artists/luis_armstrong" >}})__.
 Był pionierem w użyciu tłumików - kubków, butelek, kapeluszy. Od jego nagrania _"Wa Wa Wa"_ pochodzi
 nazwa techniki grania _wah-wah_.
 

@@ -23,7 +23,7 @@ track: [
 ]
 draft: false
 ---
-O ile mi wiadomo, na zachowały się oryginalne nagrania __Scota Joplina__. Jego muzyka, po początkowych
+O ile mi wiadomo, na zachowały się oryginalne nagrania __[Scota Joplina]({{< ref "/artists/scott_joplin" >}})__. Jego muzyka, po początkowych
 sukcesach poszła w zapomnienie. Jej wskrzeszenie podjął się wybitny amerykański muzykolog, dyrygent i pianista
 __Joshua Rifkin__. Płyta wzbudziła spore zainteresowanie, i wydawana jest ponownie co kilka lat.
 Zainspirowała też twórców kultowego już dzisiaj filmy _"Żądło"_. Charakterystyczny temat przewodni to

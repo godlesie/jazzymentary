@@ -9,8 +9,8 @@ year: 1917
 date: 2022-06-16
 draft: false
 ---
-Jest jednym z najczęściej grywanych standardów __jazzowych__. __Luis Armstrong__, 
-__Bix Beiderbecke__, __Duke Ellington__, __Charlie Parker__, nawet __Beatelsi__ go wykonywali.
+Jest jednym z najczęściej grywanych standardów __jazzowych__. __[Luis Armstrong]({{< ref "/artists/luis_armstrong" >}})__, 
+__[Bix Beiderbecke]({{< ref "/artists/bix_biderbecke" >}})__, __Duke Ellington__, __Charlie Parker__, nawet __Beatelsi__ go wykonywali.
 Każda orkiestra dęta ma go w swoim repertuarze, a odniesienia do tygrysa powodują, że jest używany jako
 przygrywkę do meczów.
 

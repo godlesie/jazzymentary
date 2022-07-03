@@ -19,7 +19,7 @@ __Jimmy Dorsey__, __Tommy Dorsey__, __Woody Herman__, __Harry James__, __Lionel 
 __Artie Shaw__ i __Django Reinhardt__ - te postacie tworzyły orkiestrową __erę swingu__.
 
 Ale nie tylko wielkie orkiestry - __big bandy__. Także małe zespoły zwane __combo__ z takimi postaciami jak
-__Louis Armstrong__, __Coleman Hawkins__, __Benny Carter__ wnieśli nieoceniony wkład w ten styl.
+__[Louis Armstrong]({{< ref "/artists/luis_armstrong" >}})__, __Coleman Hawkins__, __Benny Carter__ wnieśli nieoceniony wkład w ten styl.
 
 W czasie II Wojny Światowej __Swing__ zaczął tracić na znaczeniu na rzecz nowego, rewolucyjnego __bebopu__.
 Wygląda na to, że młodym muzykom nie podobała się komercjalizacja __Swingu__. __Jazz__ wymagał innowacji,

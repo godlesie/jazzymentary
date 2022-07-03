@@ -25,5 +25,5 @@ jako znakomity solista. Jego styl był lirycznym nastawiony na improwizację i h
 {{< audio src=../../audio/Singin_the_Blues_-_Beiderbecke_Solo_-_Sample.ogg >}}
 
 Jego kariera nie trwała długo, raptem kilkanaście lat. Zmarł w wieku 28 lat. Trudno dzisiaj orzec na co. Z pewnością był efektem
-długotrwałego alkoholizmu. Podobnie jak __Luis Armstrong__ zmieniał podejście do solisty w zespole __jazzowym__. Dotychczas grano wspólnie,
+długotrwałego alkoholizmu. Podobnie jak __[Luis Armstrong]({{< ref "/artists/luis_armstrong" >}})__ zmieniał podejście do solisty w zespole __jazzowym__. Dotychczas grano wspólnie,
 przeplatając wszystkie instrumenty solowe w jedną wielką improwizację. __Bix__ wprowadzał inne podejście: jeden solista, jedna improwizacja.

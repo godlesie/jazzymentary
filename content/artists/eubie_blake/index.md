@@ -10,7 +10,7 @@ born: 1887
 dead: 1983
 draft: false
 ---
-Był chyba jedynym muzykiem, który nigdy nie zdradził __ragtima__. Był oczywiście samoukiem, choć w latach po II Wojnie
+Był chyba jedynym muzykiem, który nigdy nie zdradził __[ragtima]({{< ref "/history/ragtime" >}})__. Był oczywiście samoukiem, choć w latach po II Wojnie
 Światowej ukończył studia muzyczne. Pomogło mu to w spisaniu utworów i piosenek, które zapamiętał z dawnych lat. 
 
 W latach 20-tych współuczestniczył w tworzeniu jednego z pierwszych, wystawionych na Brodwayu musicali, w całości stworzonym

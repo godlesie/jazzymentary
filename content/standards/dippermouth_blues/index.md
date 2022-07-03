@@ -9,13 +9,13 @@ year: 1923
 date: 2022-06-25
 draft: false
 ---
-Właściwie nie wiadomo, czyja to kompozycja - __Joe Kinga Olivera__, czy __Louisa Armstronga__. 
-Tytuł to wczesny pseudonim __Armstronga__. Jest to także jeden z przykładów wpływu __bluesa__ na
+Właściwie nie wiadomo, czyja to kompozycja - __[Joe Kinga Olivera]({{< ref "/artists/king_oliver" >}})__, czy 
+__[Louisa Armstronga]({{< ref "/artists/luis_armstrong" >}})__. Tytuł to wczesny pseudonim __Armstronga__. Jest to także jeden z przykładów wpływu __bluesa__ na
 wczesny __jazz__.
 {{<youtube o41DMsV5MFA>}}
 
 
-Podczas występów __Armstronga__ w orkiestrze __Fletchera Hendersona__ zmieniono jego nazwę na
+Podczas występów __[Armstronga]({{< ref "/artists/luis_armstrong" >}})__ w orkiestrze __Fletchera Hendersona__ zmieniono jego nazwę na
 __Sugarfoot stomp__:
 
 

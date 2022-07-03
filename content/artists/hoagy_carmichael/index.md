@@ -21,9 +21,9 @@ aby się utrzymać dorabiać w różny sposób. Między innymi matka była _tape
 do niemych filmów. Ona to właśnie nauczyła go grać. 
 
 Jednak swoje przeznaczenie odnalazł w kompozycji. Skomponował kilkaset piosenek, w tym 50, mające status przeboju.
-Takie standardy jak _"Stardust"_, _"Georgia on My Mind"_, _"The Nearness of You"_ i _"Heart and Soul"_ są najczęściej
+Takie standardy jak _"Stardust"_, _[Georgia on My Mind]({{< ref "/standards/georgia_on_my_mind" >}})_, _"The Nearness of You"_ i _"Heart and Soul"_ są najczęściej
 nagrywane amerykańskie piosenki wszechczasów. 
 
 Występował też w filmach, miał swoje programy radiowe i telewizyjne. Dostał też oskara za najlepszą muzykę do filmu,
-uwieczniono go również w sławnej _hollywódzkiej alei sław_. Jego kompozycja _"Georgia on My Mind"_ stał się oficjalnym
+uwieczniono go również w sławnej _hollywódzkiej alei sław_. Jego kompozycja _[Georgia on My Mind]({{< ref "/standards/georgia_on_my_mind" >}})_ stał się oficjalnym
 hymnem stanu _Georgia_.

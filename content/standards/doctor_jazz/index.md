@@ -9,6 +9,5 @@ year: 1926
 date: 2022-06-25
 draft: false
 ---
-Melodia skomponowana przez __Joe Kinga Olivera__. Jest idealnym przykładem kontrapunktu - charakterystycznej cechy
-wczesnego __jazzu nowoorleańskigo__.
+Melodia skomponowana przez __[Joe Kinga Olivera]({{< ref "/artists/king_oliver" >}})__. Jest idealnym przykładem kontrapunktu - charakterystycznej cechy wczesnego __[jazzu nowoorleańskigo]({{< ref "/history/dixie" >}})__.
 {{<youtube CeUxzUJcvXw>}}

@@ -30,5 +30,5 @@ Skończył tragicznie. Ugodzony w 1938 nożem w klubie _Music Box_ w Waszyngtoni
 głowy i klatki piersiowej. Zmarł w Los Angeles w 1941 roku.
 
 Jego styl muzyczny był, według własnych słów, uproszeniem nadmiernej techniki gry, jaką brylowali pianiści. Twierdził,
-że nie był tak szybki jak oni. Styl ten wyewoluował z __ragtime__ i dał początek takim stylom jak nowojorski _stride_ i 
+że nie był tak szybki jak oni. Styl ten wyewoluował z __[ragtime]({{< ref "/history/ragtime" >}})__ i dał początek takim stylom jak nowojorski _stride_ i 
 _boogie-woogie_.
