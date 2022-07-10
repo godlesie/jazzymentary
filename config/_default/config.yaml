@@ -2,3 +2,4 @@ baseURL: https://jazzymentary.netlify.app/
 languageCode: en-us
 title: Jazzymentary
 theme: Eclectic
+paginate: 7
