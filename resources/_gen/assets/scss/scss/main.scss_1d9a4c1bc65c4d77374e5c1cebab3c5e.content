@@ -122,6 +122,9 @@ a {
   a:hover {
     filter: brightness(85%); }
 
+.blog-posts > a {
+  color: blue; }
+
 strong {
   font-style: normal; }
 
@@ -1920,6 +1923,9 @@ header {
   padding: calc(2*var(--content-padding));
   background: rgba(var(--background-color-rgb), 0.9);
   border-radius: 5px; }
+  .post a {
+    color: blue;
+    font-weight: 800; }
   .post .yt {
     border-radius: 5px;
     position: relative;
@@ -2557,6 +2563,9 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   height: auto; }
+  .meta.content a {
+    color: blue;
+    font-weight: 800; }
   .meta.content.with-background {
     background-image: url("/image/background_hueaa933c84105ccdff01cf0f29ecd3b4e_229288_1400x787_fill_q75_box_smart1.jpg"); }
   .meta.content:not(:first-of-type) {

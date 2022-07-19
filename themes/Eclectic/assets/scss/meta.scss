@@ -239,6 +239,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: auto;
+    a {
+        color: blue;
+        font-weight: 800;
+    }
     &.with-background {
         background-image: url($cover);
     }

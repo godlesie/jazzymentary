@@ -1,7 +1,7 @@
 ---
 title: Great American Songbook
 subtitle: składnica standardów
-#type: history
+type: history
 description: Great American Songbook
 summary: Great American Songbook
 date: 2022-07-16
@@ -17,7 +17,7 @@ muzycznego _USA_ pierwszej połowy XX wieku. Jednak obecnie rozszerza się jego 
 
 W 1970 roku __Ringo Starr__ nagrał płytę _Sentimental Journey_ z melodiami lat 20-, 30-, i 40-tych pochodzących z
 __Great American Songbook__. Co prawda album miał słabe recenzje, lecz sporą popularność. Wzbudził w ten sposób
-zainteresowanie śpiewnikiem. __Willie Nelson__, __Linda Ronstadt__, __Natalie Cole__, __Sting__ - by wymienić tylko
+zainteresowanie śpiewnikiem. __Willie Nelson__, __Linda Ronstadt__, __Natalie Cole__, __Sting__ -- by wymienić tylko
 tych kilku muzyków, którzy wydali swoje albumy ze standardami pochodzącymi z tego śpiewnika.
 
 Jeżeli chcesz dowiedzieć się więcej na temat __Great American Songbook__ zajrzyj stronę ich
