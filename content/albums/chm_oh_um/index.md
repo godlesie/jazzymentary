@@ -28,6 +28,7 @@ track: [
         "Pussy Cat Dues",
         "Jelly Roll"
 ]
+draft: true
 ---
 Na początek anegdota. Tytuł albumu jest zniekształconym sposobem zapamiętywania przez uczniów łacińskiej
 deklinacji przymiotników. Kończą się one zazwyczaj na __us__, rodzaj żeński na __a__, a nijakiego na __um__.
