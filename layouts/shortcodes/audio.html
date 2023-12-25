@@ -1,0 +1,6 @@
+<div style="display:flex; justify-content:center; align-items:center; margin-bottom: 1.5em;">
+<audio controls>
+    {{ with .Get "src" }}<source src="{{.}}" type="audio/mpeg">{{ end }}
+    {{ with .Get "src" }}<source src="{{.}}" type="audio/ogg">{{ end }}
+  </audio>
+</div>

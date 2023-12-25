@@ -1,0 +1,58 @@
+<section class="info">
+  <h2>Szybkie fakty</h2>
+  <h3>{{.Description}}</h3>
+  <table>
+    <tbody>
+    <tr>
+      <th class="published" title="Published">
+      {{- partialCached "util/icon" (dict "key" "calendar" "size" 20) "calendar-20" -}}
+        <span>Wydany</span>
+      </th>
+      <td>
+        {{- $date := .PublishDate -}}
+        {{- if not $date -}} 
+        {{- $date = .Lastmod -}}
+        {{- end -}}
+        <span>{{ .Params.year }}</span><br />
+      </td>
+    </tr>
+  <tr>
+    <th class="tags" title="Tags">
+      {{- partialCached "util/icon" (dict "key" "tags" "size" 20) "tags-20" -}}
+      <span>Styl<br></span></th>
+      <td>{{- range .Params.nagrania -}}
+        <a style="color: black;" href="{{ "/nagrania/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }} </a>
+      {{- end -}}
+    </td>
+  </tr>
+
+  {{with .Params.futured}}
+  <tr>
+       <td colspan="2">
+         <span>Wykonawcy:</span>
+         <ul>
+          {{ range . }}
+          <li>{{ . }} </li>
+          {{end}}
+        </ul>
+       </td>
+  </tr>
+  {{end}}
+
+  {{with .Params.track }}
+  <tr>
+       <td colspan="2">
+         <span>Utwory:</span>
+         <ol>
+          {{ range . }}
+          <li>{{ . }} </li>
+          {{end}}
+        </ol>
+       </td>
+  </tr>
+  {{end}}
+  
+  
+</tbody>
+</table>
+</section>

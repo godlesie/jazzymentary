@@ -1,0 +1,5 @@
+baseURL: https://jazzymentary.pl/
+languageCode: pl
+title: Jazzymentary
+theme: Eclectic
+paginate: 7

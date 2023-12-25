@@ -1,0 +1,26 @@
+description: "Wortal o Jazzie"
+scss: true
+copyright: 2021-{now} jgdlws
+color: "7cfc00"
+
+footer:
+  - title: Historie
+    recents: history
+    recentCount: 3
+  - title: Artyści
+    recents: artists
+    recentCount: 3
+  - title: Albumy
+    recents: albums
+    recentCount: 3
+  - title: Standardy
+    recents: standards
+    recentCount: 3
+
+outputs:
+  home: 
+    - html 
+    - rss 
+    - json
+
+RemoveFormOnSubmission: true

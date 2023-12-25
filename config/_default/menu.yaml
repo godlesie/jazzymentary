@@ -1,0 +1,35 @@
+main:
+  - identifier: history
+    name: Historie
+    url: /history
+    weight: 100
+  - identifier: artists
+    name: Artyści
+    url: /artists
+    weight: 200
+  - identifier: albums
+    name: Albumy
+    url: /albums
+    weight: 300
+  - identifier: standards
+    name: Standardy
+    url: /standards
+    weight: 400
+  - identifier: category
+    name: Kategorie
+    weight: 450
+  - identifier: style
+    name: Style
+    parent: category
+    url: /style
+    weight: 500
+  - identifier: instruments
+    name: Instrumenty
+    parent: category
+    url: /instrumenty
+    weight: 600
+  - identifier: records
+    name: Nagrania
+    parent: category
+    url: /nagrania
+    weight: 700
