@@ -25,3 +25,4 @@ regułą dla innych zespołów. Inna anegdota głosiła, że __Count__ grał tyl
 Mimo wprowadzenia elementów __bebopu__ do swojej muzyki pozostał wierny [Swingowi]({{< ref "/history/swing" >}}).
 Jego ostatni album __88 Basie Street__ stanowi ukoronowanie zarówno [Swingu]({{< ref "/history/swing" >}}), jak i __Bluesa__.
 
+  
