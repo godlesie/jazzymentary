@@ -4,7 +4,7 @@ subtitle: "Architekt bebopu"
 description: "Bird"
 type: post
 date: 2023-12-25T12:11:34+01:00
-style: [Bobop] 
+style: [Bebop] 
 instrumenty: [Saksofon]
 born: 1920
 dead: 1955
