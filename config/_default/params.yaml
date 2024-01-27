@@ -1,12 +1,13 @@
 description: "Wortal o Jazzie"
 scss: true
-copyright: 2021-{now} jgdlws
-color: "7cfc00"
+color: #ff00dd
+copyright: "&copy; 2021-{now} jgdlws"
 
 footer:
-  - title: Historie
-    recents: history
-    recentCount: 3
+  #- title: O mnie
+  #  content: Jestem fascynatem jazzu od lat. 
+  #- title: Kontakt
+  #  contact: true
   - title: Artyści
     recents: artists
     recentCount: 3
@@ -22,5 +23,3 @@ outputs:
     - html 
     - rss 
     - json
-
-RemoveFormOnSubmission: true

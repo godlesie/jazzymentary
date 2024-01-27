@@ -1,5 +1,30 @@
-baseURL: https://jazzymentary.pl/
-languageCode: pl
+baseURL: /
+languageCode: "pl"
 title: Jazzymentary
-theme: Eclectic
-paginate: 7
+theme: eclectic-hugo-theme
+disablePathToLower: false
+Paginate: 3
+minify: true
+
+enableEmoji: true
+
+#permalinks:
+#  blog: "/blog/:year/:month/:day/:slug"
+Paginate: 9
+
+sitemap:
+    changefreq: "monthly"
+    priority: 0.5
+    filename: "sitemap.xml"
+outputs:
+  home:
+  - html
+  - rss
+  - json
+canonifyURLs: true
+markup:
+  renderer:
+    hardWraps: true
+  highlight:
+    lineNos: true
+#enableGitInfo: true
