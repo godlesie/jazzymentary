@@ -3,4 +3,5 @@ import Main from "./main.js"
 
 function init() {
     Search.init();
+    Main.init();
 }
