@@ -1,9 +1,0 @@
-{
-  "name": "Jazzymentary",
-  "short_name": "Jazzymentary",
-  "start_url": "/",
-  "scope": "/",
-  "theme_color": "7cfc00",
-  "background_color": "7cfc00",
-  "display": "standalone"
-}
