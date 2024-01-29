@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="{{ . }}">
   {{- end -}}
 
-{{- $main := resources.Get "js/root.js" | resources.ExecuteAsTemplate "js/root.js" . -}}
+{{- $main := resources.Get "js/main.js" | js.Build -}}
 {{- if .Site.IsServer }}
 <script type="text/javascript" src="{{ $main.RelPermalink }}" defer></script>
 {{- $res = $res | append $main.RelPermalink -}}
