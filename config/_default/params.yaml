@@ -17,9 +17,3 @@ footer:
   - title: Standardy
     recents: standards
     recentCount: 3
-
-outputs:
-  home: 
-    - html 
-    - rss 
-    - json
