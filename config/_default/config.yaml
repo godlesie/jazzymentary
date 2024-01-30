@@ -1,4 +1,4 @@
-baseURL: jazzymentary.org
+baseURL: /
 languageCode: "pl"
 title: Jazzymentary
 theme: eclectic-hugo-theme
