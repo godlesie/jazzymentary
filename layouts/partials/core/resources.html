@@ -30,7 +30,7 @@
 <script type="text/javascript" src="{{ $main.RelPermalink }}" defer></script>
 {{- $res = $res | append $main.RelPermalink -}}
 {{- else -}}
-{{- $js := slice $main | resources.Concat "index.js" | resources.Minify }}
+{{- $js := slice $main | resources.Concat "index.js" }}
 <script type="text/javascript" src="{{ $js.RelPermalink }}" defer></script>
 {{- $res = $res | append $js.RelPermalink -}}
 {{- end -}}
@@ -40,7 +40,7 @@
 {{- end -}}
 
 {{- $sw := resources.Get "js/sw.js" -}}
-{{- $sw = $sw | resources.ExecuteAsTemplate "sw.js" (dict "page" . "res" $res) | resources.Minify -}}
+{{- $sw = $sw | resources.ExecuteAsTemplate "sw.js" (dict "page" . "res" $res) -}}
 <!-- {{- $sw.RelPermalink -}} -->
 <script>
   if (window.localStorage.color) {
