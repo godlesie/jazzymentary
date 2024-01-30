@@ -4,7 +4,7 @@ title: Jazzymentary
 theme: eclectic-hugo-theme
 disablePathToLower: false
 Paginate: 3
-minify: true
+minify: false
 
 enableEmoji: true
 
