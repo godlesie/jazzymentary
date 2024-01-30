@@ -29,11 +29,11 @@
     } else if (seconds <= 90) {
       return 'minutę temu';
     } else if (minutes <= 45) {
-      return minutes + ' minuty temu';
+      return minutes + ' minut temu';
     } else if (minutes <= 90) {
       return 'godzinę temu';
     } else if (hours <= 22) {
-      return hours + ' godziny temu';
+      return hours + ' godzin temu';
     } else if (hours <= 36) {
       return 'dni temu';
     } else if (days <= 25) {
@@ -41,11 +41,11 @@
     } else if (days <= 45) {
       return 'miesiąc temu';
     } else if (days <= 345) {
-      return months + ' miesiące temu';
+      return months + ' miesięcy temu';
     } else if (days <= 545) {
       return 'rok temu';
     } else { // (days > 545)
-      return years + ' lata temu';
+      return years + ' lat temu';
     }
   }
   document.addEventListener("DOMContentLoaded", () => {
