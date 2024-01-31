@@ -42,7 +42,7 @@ więc będzie krótko. Każdy styl muzyczny charakteryzuje się pewnymi specyfic
 W __bluesie__ ten pochód jest bardzo charakterystyczny. Występuje tutaj niechętnie widziana w tradycji europejskiej kadencja V-IV-I stopnia skali. Tym się różnie właśnie __blues__ od naszych przyzwyczajeń. Dziś oczywiście nie robi to na nas takiego wrażenia. A jednak jest inna
 od _Bacha_, _Mozarta_, czy _Beethovena_.
 {{< divider >}}
-Ale tak na prawdę nie potrafię wyjaśnić fenomenu __bleusa__. Gdy słucha się muzyki, to nagle staje się jasne, że to jest to.
+Ale tak na prawdę nie potrafię wyjaśnić fenomenu __bluesa__. Gdy słucha się muzyki, to nagle staje się jasne, że to jest to.
 Czasem jest wyraźne, czasem bardziej rozmyte - gdzieś w tle.
 
 Ale wracając na ziemię - kiedyś myślałem, że __jazz__ opiera się na __bluesie__. A to nie prawda. Zacznijmy od tego, że __blues__

@@ -10,7 +10,6 @@ Podobnie jak wiele pojęć z zakresu kultury __jazz__ trudno jest zdefiniować j
 a różnorodność tak duża, że wiele rzeczy składająca się na niego uległo już erozji. Da się jednak wyróżnić kilka elementów,
 na które składa się tak wieloznaczeniowe zjawisko.
 
-
 ## Skala bluesowa
 Kompozycje muzyczne wyrosłe na gruncie europejskiej tradycji w przeważającej części oparte są na dwóch skalach: 
 *majorowej* (durowej) i *minorowej* (molowej). Z kolei skale afrykańskiej tradycji często są oparte na tzw. *pentatonice*.

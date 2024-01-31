@@ -6,7 +6,7 @@ description: Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu.
 summary: Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu.
 date: 2022-05-02
 ---
-Dzielnica burdeli i nocnych klubów i czarnych Nowego Orleanu. To tam, według własnej legendy,
+Dzielnica burdeli, nocnych klubów i czarnych Nowego Orleanu. To tam, według własnej legendy,
 __[Jelly Roll Morton]({{< ref  "/artists/jelly_roll_morton" >}})__ wymyślił __jazz__. 
 Tu też wychował się __[Louis Armstrong]({{< ref "/artists/luis_armstrong" >}})__, 
 a trąbkę __[Buddy Boldena]({{< ref "/artists/buddy_bolden" >}})__ słychać było w całej dzielnicy.
@@ -32,9 +32,9 @@ oraz w Paryżu podczas podpisania traktatu wersalskiego.
 Ale *"dobre czasy"* czasy skończyły się w 1917 roku, kiedy to burmistrz Nowego Orleanu, na żądanie Armii Stanów Zjednoczonych
 zamknął definitywnie dzielnicę. Uzasadnieniem było demoralizowanie wojska. A muzycy z dnia na dzień stracili zajęcie. Znowu z królów
 stali się fryzjerami i pucybutami. Na szczęście nie wszyscy. Ci co pozostali na placu boju rozpierzchli się po całych Stanach.
-Jednak głównym kierunkiem ich migracji stało się Chicago.
+A głównym kierunkiem ich migracji stało się Chicago.
 {{<divider>}}
 Kto wie czym by się ta cała historia jazzu skończyła, gdyby pozostawiono dzielnicę __Storyville__ w sppokoju. Być może __jazz__ 
-pozostał był regionalną ciekawostką, popularną, ale tak jak __country__ graną dla grona wiernych, lecz nielicznych fanów na festiwalach
-całego świata. A może wprowadzony wraz z nim blichtr sławy, mrok narkotyków nie kłuł by nas w oczy wśród dzisiejszych gwiazd muzyki
+pozostał regionalną ciekawostką, popularną, ale tak jak __country__ graną dla grona wiernych, lecz nielicznych fanów na festiwalach
+całego świata. A może wprowadzony wraz z nim blichtr sławy, mrok narkotyków nie kłułby nas w oczy wśród dzisiejszych gwiazd muzyki
 rozrywkowej. Może ...
