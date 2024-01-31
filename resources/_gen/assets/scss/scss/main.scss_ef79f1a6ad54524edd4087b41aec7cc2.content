@@ -116,8 +116,10 @@ p {
     color: var(--hover-color);
     text-shadow: 0 0 2px rgba(var(--background-color-rgb), 0.5); }
 
-a:hover {
-  filter: brightness(85%); }
+a {
+  font-weight: 800; }
+  a:hover {
+    filter: brightness(85%); }
 
 blockquote {
   margin: 40px 0;
