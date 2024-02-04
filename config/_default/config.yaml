@@ -3,6 +3,7 @@ languageCode: "pl"
 title: Jazzymentary
 theme: eclectic-hugo-theme
 disablePathToLower: false
+enableRobotsTXT: true
 googleAnalytics: G-N0BJXX3FZR
 Paginate: 3
 minify: false
