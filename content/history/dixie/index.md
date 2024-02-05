@@ -12,7 +12,7 @@ jak nie trzy style: _nowoorleański_, _nowoorleański w Chicago_ i _chicagowski_
 jest przez nas kojarzony z tym __jazzem__ tradycyjnym. Poza tym jego odrodzenie w latach 70-tych wywołało pejoratywne
 odczucia: uważano, że jest to (w owym czasie) muzyka czarnych grana wyłącznie przez białych.
 
-Nazwa pochodzi od starego określenia od tzw. linii "Masona-Dixona" oddzielającej stany południowe od północnych.
+Nazwa pochodzi od starego określenia tzw. linii "Masona-Dixona" oddzielającej stany południowe od północnych.
 Pierwszy raz pojawiła się w nazwie zespołu z 1917 roku _"The Original Dixieland Jass Band"_, który przy okazji,
 w tym samym roku nagrał pierwszą stricte __jazzową__ płytę:
 
