@@ -1,14 +1,14 @@
 ---
 title: Mingus Ah Um
-nagrania: [beebop]
+nagrania: [bebop]
 subtitle: Charles Mingus
 description: Charles Mingus
 publishDate: 1959
-date: 2022-05-03
+date: 2024-02-13
 year: 1959
 type: albums
 futured: [
-    "John Handy - as,ts",
+    John Handy - as;ts,
     Booker Ervin - ts,
     Shafi Hadi - as;ts,
     Willie Dennis - tb,
@@ -28,7 +28,7 @@ track: [
         "Pussy Cat Dues",
         "Jelly Roll"
 ]
-draft: true
+draft: false
 ---
 Na początek anegdota. Tytuł albumu jest zniekształconym sposobem zapamiętywania przez uczniów łacińskiej
 deklinacji przymiotników. Kończą się one zazwyczaj na __us__, rodzaj żeński na __a__, a nijakiego na __um__.
@@ -39,4 +39,4 @@ Dla mnie była objawieniem. Od dawna wiedziałem, że __Igor Strawiński__ częs
 że to był dokładnie ten jego rodzaj - połamane beebopowe rytmy, rozbudowana forma, Big Bandowy skład.
 Kompozycje są hołdem dla starych mistrzów jazzu: __Duka Ellingtona__, __Jerry Roll Mortona__, __Lestera Youna__,
 i __Sonny'ego Rollinsa__ a także Gospel.
-{{<youtube "playlist?list=OLAK5uy_kexAt83Cfnr2TrBlrE9k2YM1ZrSZKq6kk">}}
+{{<youtube "watch?v=QbVg_mOIJtw&list=OLAK5uy_n4zhWuYMV5BEn_RR1G6L4XzXoj8O5fRwk">}}

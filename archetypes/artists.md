@@ -8,5 +8,6 @@ style: []
 instrumenty: []
 born: 
 dead: 
+state: 
 draft: false
 ---
