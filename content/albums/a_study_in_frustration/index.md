@@ -7,7 +7,7 @@ publishDate: 1961
 date: 2022-07-23
 year: 1961
 type: albums
-futured: [
+futured: [ 
     Fletcher Henderson - Bandleader
 ]
 draft: false
