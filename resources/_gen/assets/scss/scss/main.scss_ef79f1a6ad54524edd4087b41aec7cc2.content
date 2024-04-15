@@ -431,11 +431,16 @@ button, .button, .button-small {
   width: 100%; }
 
 figure {
-  border: 1px solid rgba(var(--text-color-rgb), 0.1);
+  *border: 1px solid rgba(var(--text-color-rgb), 0.1);
   border-radius: 5px;
-  overflow: hidden; }
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto; }
   figure img {
-    width: 100%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto; }
 
 figcaption {

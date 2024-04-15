@@ -526,12 +526,17 @@ button, .button, .button-small {
 }
 
 figure {
-    border: 1px solid $divider;
+    *border: 1px solid $divider;
     border-radius: 5px;
     overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
 
     img {
-        width: 100%;
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         height: auto;
     }
 }
