@@ -1,7 +1,7 @@
 description: "Wortal o Jazzie"
 scss: true
 color: #ff00dd
-copyright: "&copy; 2021-{now} [jgdlws](mailto :j.godlesie@gmail.com)"
+copyright: "&copy; 2021-{now} [jgdlws](mailto:j.godlesie@gmail.com)"
 
 footer:
   #- title: O mnie
