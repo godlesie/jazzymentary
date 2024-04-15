@@ -8,6 +8,9 @@ footer:
   #  content: Jestem fascynatem jazzu od lat. 
   #- title: Kontakt
   #  contact: true
+  - title: Historie
+    recents: history
+    recentCount: 3
   - title: Artyści
     recents: artists
     recentCount: 3
