@@ -7,5 +7,5 @@ description: Strange Fruits
 styl: Blues
 type: standards
 year: 1935
-draft: false
+draft: true
 ---

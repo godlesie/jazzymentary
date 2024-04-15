@@ -16,4 +16,4 @@ I tak czym __Vivaldi__ czy __Corelli__ był dla __Bacha__, tak __Donaldson__ dla
 
 Każda jego solowa płyta, którą przesłuchałem była tym, co się spodziewałem. Choć... jest w nim bardzo dużo [bluesa]({{<ref "history/blues">}}). I to dla mnie jest jego największa wartość:
 
-{{<youtube "5l6WiUKKMjY">}}
+{{<youtube "Liy9tw03p1I">}}

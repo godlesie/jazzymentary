@@ -107,4 +107,4 @@ Ta płyta należy do absolutnie obowiązkowego zestawu. Właściwie słuchając 
 w _Chicago_. Jest to reedycja nagrań dokonanych przez [Louisa Armstronga]({{< ref "/artists/luis_armstrong" >}}) dokonanych
 wraz z __Hot Five__, __Hot Seven__ oraz innymi zespołami.
 
-{{<youtube "playlist?list=OLAK5uy_mNzYHhacuf_puG3SQue6_zE3eu4i82y0E">}}
+{{<youtube "playlist?list=OLAK5uy_lZ8ZzjSKAYrGKXu7XKnSSQjIMfMH_CDdg">}}

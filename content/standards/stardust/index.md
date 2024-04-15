@@ -14,4 +14,4 @@ amerykańskich standardów __jazzowych__ i popularnych melodii pierwszej połowy
 ponad 1500 razy, zarówno w formie wokalnej (to tekstu __Mitchela Parisha__), jak i instrumentalnej.
 Z nich wybrałem, według mnie najfajniejszą wersję orkiestry __Glenna Millera__:
 
-{{< youtube fuYD0K2ERd0 >}}
+{{< youtube 03gBqeqkj38 >}}
