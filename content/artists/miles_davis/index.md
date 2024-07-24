@@ -18,9 +18,10 @@ siedząc przy jakiejś wyfiokowanej kobiecie, usłyszał tekst - "Jestem żoną 
 w niej trochę przesady.
 
 Urodził się w dość zamożnej rodzinie dentysty i od 12-tego roku życie grał na trąbce, z którą już wówczas wiązał przyszłość. Praktykował u 
-[Charlie Parkera]({{<ref "/artists/charlie_parker">}}), czyli [bebop]({{<ref "/history/bebop">}}), potem zakładał już własne zespoły, zazwyczaj z legendami __jazzu__, ale już w innym stylu - [cool]({{<ref "/history/cool_jazz">}}), w ten sposób powstała klasyczny album __Birth of the Cool__. 
+[Charlie Parkera]({{<ref "/artists/charlie_parker">}}), czyli [bebop]({{<ref "/history/bebop">}}), potem zakładał już własne zespoły, zazwyczaj z legendami __jazzu__, ale już w innym stylu - [cool]({{<ref "/history/cool_jazz">}}), w ten sposób powstała klasyczny album 
+[Birth of the Cool]({{<ref "/albums/birth_of_the_cool">}}). 
 
-Następne przystanki to __Hard bop__ (album __Walkin'__), __jazz modalny__ (__Kind of Blue__). W latach 70-tych porzucił klasyczny __jazz__ na rzecz eksperymentowania z elektroniką (__Bitches Brews__), __Fusion__ (__Amandla__, __TuTU__), a nawet __Rap__ (__DoBoop__).
+Następne przystanki to __Hard bop__ (album [Walkin`]({{<ref "albums/walkin">}})), __jazz modalny__ (__Kind of Blue__). W latach 70-tych porzucił klasyczny __jazz__ na rzecz eksperymentowania z elektroniką (__Bitches Brews__), __Fusion__ (__Amandla__, __TuTU__), a nawet __Rap__ (__DoBoop__).
 
 Nie każdemu się to podobało, właściwie każda z jego płyt była wtedy nowością i czymś innym od
 poprzednich. Wiele z nich przedstawię w sekcji [albumy]({{<ref "/albums">}}). Ale to później... Teraz przedstawię tylko jeden jego utwór, który, chyba nie tylko ja uważam za jego wizytówkę: __All Blues__.
