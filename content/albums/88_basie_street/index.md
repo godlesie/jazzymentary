@@ -6,7 +6,7 @@ subtitle: Count Basie and his Orchestra
 description: Count Basie and his Orchestra
 publishDate: 1983
 year: 1983
-type: albums
+type: albums 
 futured: [
     Count Basie and his Orchestra
 ]
@@ -26,5 +26,6 @@ To ostatnia płyta [Counta Basiego]({{< ref "artists/count_basie" >}}). Dla mnie
 Jest to, jak przystało
 na ostatni album, podsumowanie drogi artystycznej twórcy. Inne płyty [Counta]({{< ref "artists/count_basie" >}})
 mają lepsze notowania wśród krytyków, jednak ja tę właśnie uważam za najlepszą:
+
 
 {{<youtube "https://www.youtube.com/watch?v=RAxHNoK4o1Q&list=OLAK5uy_niHopK8HZEDBcHEygEP4SM6RLlUgEPzjA">}}
