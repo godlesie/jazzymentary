@@ -4,7 +4,7 @@ subtitle: Giant
 description: Giant
 type: post
 date: 2024-07-31T00:00:00Z
-style: [hardbop]
+style: [hard bop]
 instrumenty: [saksofon]
 born: 1926
 dead: 1967
