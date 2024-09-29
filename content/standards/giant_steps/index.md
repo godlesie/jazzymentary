@@ -14,3 +14,4 @@ Utwór legenda. Każdy adept jazzowy zna i próbuje przeanalizować ten utwór, 
 Kompozycja pojawiła się na kultowej płycie __Giant Steps__, nagrana w 1959 roku, wydana w 1960. Oprócz samego __Coltrane'a__ na nagraniu pojawił się wzmiankowany już __Tonny Flanagan__ na fortepianie, __Paul Chambers__ na basie i __Art Taylor__ na perkusji. Jego wpływ na __jazz__ lat późniejszy był niezaprzeczalny i do dziś uważany jest za jedno z najważniejszych osiągnięć:
 
 {{<youtube "KwIC6B_dvW4">}}
+{{<figure src="../../media/musescore/giant_steps.svg" alt="Giant Steps">}}

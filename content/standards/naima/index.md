@@ -11,3 +11,4 @@ draft: false
 ---
 Nagrany w 1959 roku i wydany na kultowej płycie [Giant Steps]({{<ref "/albums/giant_steps">}}) jest hołdem dla pierwszej żony [Coltrane\'a]({{<ref "/artists/john_coltrane">}}) *Juanity Naimy Grubbs*. Tym razem to ballada z dość skomplikowaną harmonią, lecz prostą, kontemplacyjną melodią. Na oryginalnym nagraniu pojawili się również __Wynton Kelly__ na fortepianie, __Paul Chambers__ na basie oraz __Jimmy Cobb__ na perkusji.
 {{<youtube "bPAC6zt_1ZM">}}
+{{<figure src="../../media/musescore/naima.svg" alt="Naima">}}

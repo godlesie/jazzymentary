@@ -16,3 +16,5 @@ Utwór skomponował __Paul Desmond__ - członek zespołu __Dave Brubecka__. Zain
 A teraz sami sprawdźcie, czy potraficie to zatańczyć:
 
 {{<youtube "watch?v=ryA6eHZNnXY&list=PLMxkpnetcodMI06cGhDnJWIu86POfn-JJ&index=3">}}
+
+{{<figure src="../../media/musescore/take_five.svg" alt="Giant Steps">}}
