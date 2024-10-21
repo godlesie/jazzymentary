@@ -5,14 +5,17 @@ theme: eclectic-hugo-theme
 disablePathToLower: false
 enableRobotsTXT: true
 googleAnalytics: G-N0BJXX3FZR
-Paginate: 3
+#Paginate: 3
+Pagination:
+  disableAliases: false
+  pagerSize: 10
 minify: false
 
 enableEmoji: true
 
 #permalinks:
 #  blog: "/blog/:year/:month/:day/:slug"
-Paginate: 9
+#Paginate: 9
 
 sitemap:
     changefreq: "daily"

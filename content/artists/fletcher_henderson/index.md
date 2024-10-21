@@ -17,7 +17,7 @@ w _Nowym Jorku_. Pracował tam na pół etatu jako laborant, wynajmował mieszka
 __jazzu__ ów muzyk rozchorował się i __Fletcher__ go zastąpił. I tak już zostało.
 
 Jego kariera nabrała rozpędu, gdy w 1924 roku zatrudnił do swojej orkiestry [Louisa Armstronga]({{< ref "/artists/luis_armstrong" >}}).
-Ale nie tylko on. Inne sławy: __Benny Carter__, __Coleman Hawkins__, __Chu Berry__, __Sun Ra__.
+Ale nie tylko on. Inne sławy: __Benny Carter__, [Coleman Hawkins]({{<ref "artists/coleman_hawkins">}}), __Chu Berry__, __Sun Ra__.
 
 To między innymi on wprowadził, do diś obowiązujący skład __big bandu__: osobne sekcje trąbek, saksofonów. Ustalił też standard
 muzyki __swingowej__. Ale podobnie jak u __Duke'a Ellingtona__ nie działał sam. Wspierali go genialni aranżerzy - __Don Redman__ i 
