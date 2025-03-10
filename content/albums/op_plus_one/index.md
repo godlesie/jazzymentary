@@ -34,3 +34,4 @@ Naśladował, a niektórzy twierdzą, że parodiował dawnych muzyków bluesowyc
 Wtedy nie zapamiętałem wykonawców, dopiero po latach zdobyłem tę płytę. Trochę jak pierwsza miłość:
 
 {{< youtube "https://www.youtube.com/watch?v=NTWenY_4-fg&list=OLAK5uy_l5_1GGKck8iKZGxZ3B_MeV7OzNbEbbTbw" >}}
+

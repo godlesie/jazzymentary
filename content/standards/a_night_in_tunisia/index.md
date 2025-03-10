@@ -14,3 +14,5 @@ W mojej skromnej opinii to *standard* wszech czasów. Jego narodziny toną w odm
 
 Standard był dość nietypowy jak __jazz__, miał dziwną formę linii basowej, wprowadzał też elementy latynoamerykańskie, afrykańskie i orientalne. Jest też chyba najczęściej wykorzystywanym motywem w __jazzie__ - pojawia się na ponad 300 albumach. Spośród nich wybrałem dla Was nagranie super wykonawców: __Bobby McFerrina__, __Manhatan Transfer__, z fenomenalną solówką __Joe Hendricksa__:
 {{<youtube "cgrg-eGTabQ">}}
+
+{{<figure src="../../media/musescore/a_night_in_tunisia.svg" alt="A Night in Tunisia">}}
