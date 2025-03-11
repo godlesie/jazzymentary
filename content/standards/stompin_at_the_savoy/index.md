@@ -20,3 +20,4 @@ Jednak to wersja __Benny Goodmana__ zrobiła się sławna i stała się standard
 
 {{< youtube 5ky8I_H2RVM >}}
 
+{{<figure src="../../media/musescore/stompin_at_the_savoy.svg" alt="Stompn' at the Savoy">}}
