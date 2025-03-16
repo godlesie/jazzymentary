@@ -27,3 +27,7 @@ main:
     name: Nagrania
     url: /nagrania
     weight: 700
+  - identifier: state
+    name: Narodowość
+    url: /state
+    weight: 800
