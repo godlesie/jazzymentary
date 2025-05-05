@@ -9,6 +9,6 @@ instrumenty: [saksofon]
 born: 1923
 dead: 1990
 state: USA
-draft: false
+draft: true
 ---
 Próba
