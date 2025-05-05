@@ -1,0 +1,29 @@
+description: "Wortal o Jazzie"
+scss: true
+color: #ff00dd
+copyright: "&copy; 2021-{now} [jgdlws](mailto:j.godlesie@gmail.com)"
+
+
+footer:
+  #- title: O mnie
+  #  content: Jestem fascynatem jazzu od lat. 
+  #- title: Kontakt
+  #  contact: true
+  - title: Historie
+    recents: history
+    recentCount: 3
+  - title: Artyści
+    recents: artists
+    recentCount: 3
+  - title: Albumy
+    recents: albums
+    recentCount: 3
+  - title: Standardy
+    recents: standards
+    recentCount: 3
+
+outputs:
+  home: 
+    - html 
+    - rss 
+    - json

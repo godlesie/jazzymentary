@@ -1,0 +1,21 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "devDependencies": {},
+  "name": "jazzymentary",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fuse":"^0.11.3",
+    "fs-extra": "^8.0.1"
+  }
+}

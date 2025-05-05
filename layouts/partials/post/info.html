@@ -1,0 +1,48 @@
+<section class="info">
+  <h2>Szybkie fakty</h2>
+  <table>
+    <tbody>
+    <tr>
+      <th class="born" title="born">
+        {{- partialCached "util/icon" (dict "key" "calendar" "size" 20) "calendar-20" -}}
+        <span>Życie</span>
+        <td>{{ .Params.born }} <br />{{ .Params.dead }} <br />{{ .Params.state }}</td>
+      </th>
+    </tr>
+
+  {{with .Params.instrumenty}}
+  <tr>
+   <th class="category" title="Category">
+     {{- partialCached "util/icon" (dict "key" "caret-square-o-right" "size" 20) "caret-square-o-right-20" -}}
+     <span>Instrumenty</span></th>
+       <td>{{ range . }}
+         <a  style="color: black;" href="{{ "/instrumenty/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }}</a>
+         {{end}}
+       </td>
+  </tr>
+  {{end}}
+  
+  <tr>
+    <th class="tags" title="Tags">
+      {{- partialCached "util/icon" (dict "key" "tags" "size" 20) "tags-20" -}}
+      <span>Styl<br></span></th>
+      <td>{{- range .Params.style -}}
+        <a style="color: black;" href="{{ "/style/" | relLangURL }}{{ . | urlize }}">{{ . | humanize }} </a>
+      {{- end -}}
+    </td>
+  </tr>
+  {{with .Params.standards}}
+  <tr>
+       <td colspan="2">
+         <span>Kompozycje:</span>
+         <ul>
+          {{ range . }}
+          <li>{{ . }} </li>
+          {{end}}
+        </ul>
+       </td>
+  </tr>
+  {{end}}
+</tbody>
+</table>
+</section>

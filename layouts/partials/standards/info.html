@@ -1,0 +1,24 @@
+<section class="info">
+  <h2>Szybkie fakty</h2>
+  <h3>{{.Description}}</h3>
+  <table>
+    <tbody>
+    <tr>
+      <th class="published" title="Published">
+      {{- partialCached "util/icon" (dict "key" "calendar" "size" 20) "calendar-20" -}}
+        <span>Wydany</span>
+      </th>
+      <td>
+        <span>{{ .Params.year }}</span>
+      </td>
+    </tr>
+  <tr>
+    <th class="tags" title="Tags">
+      {{- partialCached "util/icon" (dict "key" "tags" "size" 20) "tags-20" -}}
+      <span>Styl<br></span></th>
+      <td>{{ .Params.styl }}
+    </td>
+  </tr>  
+</tbody>
+</table>
+</section>
