@@ -22,5 +22,12 @@ track: [
 ]
 draft: false
 ---
-Coś
+__Jimmy Smith__ i __Wes Montgomery__ nigdy wcześniej się nie spotkali. Obaj byli wspaniałymi instrumentalistami, reprezentowali różne podejścia
+do __jazzu__ i stworzyli w ten sposób wybuchową, energetyczną mieszankę __soul jazzu__ i __swingującego mainstreamu__. Dochodzi do tego wspaniały
+akompaniament [Big Bandu]({{< ref "history/big_band" >}}) i aranżacje __Olivera Nelsona__.
+
+Wiem, wiem, piszę same superlatywy, ale kiedy pierwszy raz usłyszałem tę płytę zakochałem się w niej po uszy. Powstała praktycznie w biegu, co
+sprawiało tak spontaniczny charakter. Jest jeszcze jedna rzecz - elementy muzyki klasycznej wprowadzane przez __Olivera Nelsona__ - to tzw.
+*trzeci nurt* (__thirrd stream__). Więc posłuchajmy.
+
 {{<youtube-playlist id="PLUoIW-9VH_1DDesD1IJz1nI4-tjchF9PF" >}}
