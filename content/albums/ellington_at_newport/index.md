@@ -30,4 +30,4 @@ Z czego on wynikał? Jadna z legend mówi, że obojętność publiczności przer
 zaczęła tańczyć pod sceną - wypiła o jedno martini za dużo, jak wspominała. Ja osobiście uważam, że przyczyniła się do tego forma
 kompozycji na koncercie - __bluesowa__. Zresztą sami posłuchajcie:
 
-{{<youtube "https://www.youtube.com/playlist?list=PLL-NbN8uTOihEAAeD75eevQTDiFqHi8ta">}}
+{{<youtube-playlist id="PLL-NbN8uTOihEAAeD75eevQTDiFqHi8ta">}}

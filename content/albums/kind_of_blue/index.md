@@ -31,4 +31,4 @@ wszech czasów. Są tacy, którzy twierdzą, że jeśli nie lubisz __Kind of Blu
 Ale dość peanów. Album stanowi kwintesencję __jazzu modalnego__. Ten sposób grania pojawiał się już wcześniej, nie tylko u 
 [Milesa Davisa]({{<ref "/artists/miles_davis">}}). Jednak to nagranie wyznaczyło kierunek na następne 10 lat:
 
-{{<youtube "https://www.youtube.com/playlist?list=OLAK5uy_kLtBpVbGac_7xgJC4x9cRpeiLfjt9T1Pk">}}
+{{<youtube-playlist id="OLAK5uy_kLtBpVbGac_7xgJC4x9cRpeiLfjt9T1Pk">}}

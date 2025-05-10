@@ -28,4 +28,4 @@ To pierwszy album __jazzowy__, który sprzedał się w ponadmilionowym nakładzi
 
 Dla mnie jest to jedna z najważniejszych płyt __jazzowych__ w historii. I nie tylko dla mnie - uplasował się na 2 miejscu *Billboard pop albums chart*, w 2005 został wprowadzony do *United States National Recording Registry* jako "cultural, historical or aesthetic significance", am w 2009 do *Grammy Hall of Fame*.
 
-{{<youtube "watch?v=FqPC-BkylxA&list=PLMxkpnetcodMI06cGhDnJWIu86POfn-JJ">}}
+{{<youtube-playlist id="OLAK5uy_lfNj2ojsHlekinf8G7ZDIIWXpAaOq9Tcc">}}

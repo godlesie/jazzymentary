@@ -39,4 +39,4 @@ Dla mnie była objawieniem. Od dawna wiedziałem, że __Igor Strawiński__ częs
 że to był dokładnie ten jego rodzaj - połamane beebopowe rytmy, rozbudowana forma, Big Bandowy skład.
 Kompozycje są hołdem dla starych mistrzów jazzu: __Duka Ellingtona__, __Jerry Roll Mortona__, __Lestera Youna__,
 i __Sonny'ego Rollinsa__ a także Gospel.
-{{<youtube "watch?v=QbVg_mOIJtw&list=OLAK5uy_n4zhWuYMV5BEn_RR1G6L4XzXoj8O5fRwk">}}
+{{<youtube-playlist id="OLAK5uy_n4zhWuYMV5BEn_RR1G6L4XzXoj8O5fRwk">}}

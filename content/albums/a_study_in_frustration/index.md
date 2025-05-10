@@ -19,4 +19,4 @@ zasady __Swingu__, jednak to ich następcy odnieśli sukces na tym polu, nawet w
 
 Trudno wymienić wszystkich muzyków grających w tej edycji, podobnie jak listę utworów, obejmującą ponad 70 utworów. W sumie
 wydanie wznawiano jeszcze dwukrotnie, nieznacznie je zmieniając.
-{{<youtube "playlist?list=PL1etLXVBeORewgbNKXhDlaWvwuJM0_R-J">}}
+{{<youtube-playlist id="PL1etLXVBeORewgbNKXhDlaWvwuJM0_R-J">}}

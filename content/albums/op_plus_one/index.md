@@ -33,5 +33,4 @@ __Clarka Terry\'ego__ na trąbce i wokalu. Na pierwszy rzut oka to trochę żart
 Naśladował, a niektórzy twierdzą, że parodiował dawnych muzyków bluesowych - nazywano tę technikę __mumbles__. Tak też nazywa się jeden z utworów na płycie.
 Wtedy nie zapamiętałem wykonawców, dopiero po latach zdobyłem tę płytę. Trochę jak pierwsza miłość:
 
-{{< youtube "https://www.youtube.com/watch?v=NTWenY_4-fg&list=OLAK5uy_l5_1GGKck8iKZGxZ3B_MeV7OzNbEbbTbw" >}}
-
+{{<youtube-playlist id="OLAK5uy_l5_1GGKck8iKZGxZ3B_MeV7OzNbEbbTbw">}}

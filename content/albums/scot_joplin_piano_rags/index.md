@@ -32,4 +32,4 @@ _"The Entertainer"_. Początkowo miał go wykonywać __Joshua Rifkin__, ale osta
 Dopiero niedawno zdałem sobie sprawę, że właśnie od tej płyty i filmu rozpoczęła się moja fascynacja
 __jazzem__ - choć formalnie __ragtime__ nie jest jego gatunkiem, 
 
-{{<youtube "playlist?list=OLAK5uy_kN9IIegXLZCUU822-xT3qTlbQ7d4yk140">}}
+{{<youtube-playlist id="OLAK5uy_kN9IIegXLZCUU822-xT3qTlbQ7d4yk140">}}

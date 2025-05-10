@@ -28,4 +28,4 @@ na ostatni album, podsumowanie drogi artystycznej twórcy. Inne płyty [Counta](
 mają lepsze notowania wśród krytyków, jednak ja tę właśnie uważam za najlepszą:
 
 
-{{<youtube "https://www.youtube.com/watch?v=RAxHNoK4o1Q&list=OLAK5uy_niHopK8HZEDBcHEygEP4SM6RLlUgEPzjA">}}
+{{<youtube-playlist id="OLAK5uy_niHopK8HZEDBcHEygEP4SM6RLlUgEPzjA">}}

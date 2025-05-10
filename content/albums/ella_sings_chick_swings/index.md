@@ -28,4 +28,4 @@ draft: false
 Album wydany dopiero w 1974 roku, ale nagrany w sławnej sali balowej __Savoya__ w _Harlemie_ w 1939 roku.
 Było to krótko przed śmiercią [Chicka Webba]({{< ref "/artists/chick_webb" >}}).
 
-{{<youtube "playlist?list=OLAK5uy_n0TaehgDZ6rkuu7MqCuBWkD4856cxqwrw">}}
+{{<youtube-playlist id="OLAK5uy_n0TaehgDZ6rkuu7MqCuBWkD4856cxqwrw">}}

@@ -28,4 +28,4 @@ draft: false
 To jedna z tych płyt, które __trzeba__ znać. Nawet, jeśli nie przepadamy za tą odmianą __jazzu__. Ja przepadam. Od tej pory
 __jazz__ stał się bardziej ekspresyjny, twardy. Ale co tu dużo gadać... Posłuchajmy:
 
-{{<youtube "playlist?list=OLAK5uy_kWhEckv9r0y0qqq-kxbazP6KfWspTfCTE">}}
+{{<youtube-playlist id="OLAK5uy_kWhEckv9r0y0qqq-kxbazP6KfWspTfCTE">}}

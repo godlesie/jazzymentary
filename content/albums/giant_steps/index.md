@@ -29,4 +29,5 @@ draft: false
 To był na prawdę *krok milowy* w rozwoju jazzu. Szczególnie kompozycja tytułowa, która została napisana w czasie, gdy Coltrane przebywał w Paryżu. Nie wiem jak jest dzisiaj, ale dawniej każdy szanujący się saksofonista ćwiczył solówkę tej kompozycji. Dodam, że jest piekielnie trudna. Sam album oscyluje między __Hard bopem__ i __Jazzem modalnym__. 
 
 Przed tym albumem [Coltrane]({{<ref "artists/john_coltrane">}}) był kojarzony z [Milesem Davisem]({{<ref "artists/miles_davis">}}), teraz pokazał się jako lider i innowator muzyczny. Płyta stanowi absolutny kanon do odsłuchania i właściwie wszystkie kompozycję stanowią obecnie standard w muzyce jazzowej.
-{{<youtube "watch?v=KwIC6B_dvW4&list=OLAK5uy_nytYGOGe7I1yclqTIN7qJA2l8jzzIAse8">}}
+
+{{<youtube-playlist id="OLAK5uy_nytYGOGe7I1yclqTIN7qJA2l8jzzIAse8">}}

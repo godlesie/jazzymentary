@@ -28,4 +28,4 @@ draft: false
 Ten kolejny kluczowy album [Milesa Davisa]({{<ref "/artists/miles_davis">}}), który odegrał kluczową rolę w rozwoju stylu
 [hard bop]({{<ref "/history/bebop">}}). Nagrany w 1954 roku wydany dopiero jako kompilacja dwóch sesji w 1957. W przeciwieństwie do klasycznego
 __bebopu__ dodawał więcej [bluesa](({<ref "/history/blues">})) i bardziej intensyfikował rytmicznie __jazz__.
-{{<youtube "playlist?list=OLAK5uy_m7VEabZLuWZV2zO2KJv-B56jcSFnDlNNU">}}
+{{<youtube-playlist id="OLAK5uy_m7VEabZLuWZV2zO2KJv-B56jcSFnDlNNU">}}

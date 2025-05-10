@@ -35,4 +35,4 @@ __[Jelly Roll Morton]({{< ref "/artists/jelly_roll_morton" >}})__ _"nagrał"_ ki
 i odtworzył na specjalnym pianinie w sali koncertowej. Powstał z tego album, który w możliwie (oczywiście nie idealny)
 sposób oddawał styl i sposób gry __[Mortona]({{< ref "/artists/jelly_roll_morton" >}})__.
 
-{{<youtube "playlist?list=OLAK5uy_kCD6eE2Lah-qdotmBl6tcS84QIoplTqUk">}}
+{{<youtube-playlist id="OLAK5uy_kCD6eE2Lah-qdotmBl6tcS84QIoplTqUk">}}
