@@ -40,4 +40,7 @@ markup:
     hardWraps: true
   highlight:
     lineNos: true
+  goldmark:
+   renderer:
+     unsafe: true
 #enableGitInfo: true
