@@ -1,7 +1,7 @@
 ---
 title: "Time Out"
 date: 2024-02-25T09:00:08+01:00
-nagrania: [ styl ]
+nagrania: [ cool ]
 subtitle: Autor
 description: Autor
 publishDate: 1959

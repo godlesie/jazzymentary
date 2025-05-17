@@ -1,7 +1,7 @@
 ---
 title: Complete Hot Five And Hot Severn Recordings
 date: 2022-07-10
-nagrania: [dixieland]
+nagrania: [ dixie ]
 subtitle: Louis Armstrong
 description: Louis Armstrong
 publishDate: 1920

@@ -1,7 +1,7 @@
 ---
 title: "Moanin'"
 date: 2024-07-11T18:49:03+02:00
-nagrania: [ styl ]
+nagrania: [ Hard bop]
 subtitle: Autor
 description: Autor
 publishDate: 1959
