@@ -15,19 +15,25 @@ main:
     name: Standardy
     url: /standards
     weight: 400
-  - identifier: style
-    name: Style
-    url: /style
+    
+  - identifier: Kategorie
+  - identifier: kategorie
+    name: Kategorie
+    url: /kategorie/
     weight: 500
+
   - identifier: instruments
     name: Instrumenty
     url: /instrumenty
-    weight: 600
+    weight: 510
+    parent: kategorie
   - identifier: records
     name: Nagrania
     url: /nagrania
-    weight: 700
+    weight: 520
+    parent: kategorie
   - identifier: state
     name: Narodowość
     url: /state
-    weight: 800
+    weight: 530
+    parent: kategorie
