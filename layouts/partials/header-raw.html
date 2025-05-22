@@ -20,7 +20,7 @@
         {{- if (fileExists "assets/image/logo.svg") }}
         {{ (resources.Get "image/logo.svg").Content | safeHTML }}
         {{- else if (fileExists "assets/image/logo.png") -}}
-        <img height="47px" src="{{((resources.Get "image/logo.png").Resize "x47").RelPermalink}}">
+        <img height="57px" src="{{((resources.Get "image/logo.png").Resize "x57").RelPermalink}}">
         {{- else -}}
         {{ .Site.Title }}
         {{- end -}}
@@ -54,8 +54,8 @@
 {{ end }}
     </ul>
     <div id="searchbox">
-        <label class="sr-only" for="search">Search</label>
-        <input id="search" type="text" placeholder="Search" spellcheck="true">
+        <label class="sr-only" for="search">Szukaj</label>
+        <input id="search" type="text" placeholder="Szukaj" spellcheck="true">
         {{- partialCached "util/icon" (dict "key" "search" "size" 20) "search-20" -}}
         <section class="results">
         </section>

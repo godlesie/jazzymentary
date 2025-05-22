@@ -37,11 +37,9 @@
 {{- $res = $res | append $js.RelPermalink -}}
 {{- end -}}
 
- {{/*- if not .Site.IsServer */}}
-  {{/* template "_internal/google_analytics_async.html" . */}} 
-{{/*- end -*/}} 
+ 
 
-{{ .Site.Config.Services.GoogleAnalytics.ID }}
+{{- .Site.Config.Services.GoogleAnalytics.ID -}}
 
 {{- $sw := resources.Get "js/sw.js" -}}
 {{- $sw = $sw | resources.ExecuteAsTemplate "sw.js" (dict "page" . "res" $res) -}}
