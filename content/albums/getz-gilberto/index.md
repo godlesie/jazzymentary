@@ -27,8 +27,8 @@ track: [
 ]
 draft: false
 ---
-To kolejny album, który jest obowiązkową pozycją w biblioteca każdego miłośnika __jazzu__. Była też jedną z najlepiej sprzedających się płyt w historii
-__jazzu__. Nie tylko rozpoczęła karierę __jobima__ i __Gilbertów__, wprowadziła do światowego obiegu styl __bossa nova__ - muzykę brazylijską, odmianę
+To kolejny album, który jest obowiązkową pozycją w bibliotece każdego miłośnika __jazzu__. Była też jedną z najlepiej sprzedających się płyt w historii
+__jazzu__. Nie tylko rozpoczęła karierę __Jobima__ i __Gilbertów__, wprowadziła do światowego obiegu styl __bossa nova__ - muzykę brazylijską, odmianę
 __samby__, powstałą pod koniec lata 50-tych w __Rio de Janeiro__.
 
 To bardzo nastrojowa, trochę melancholijna płyta. Jeśli planujesz spokojny wieczór przy butelce wina i świecach, a przy okazji lubisz
