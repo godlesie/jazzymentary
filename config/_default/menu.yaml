@@ -22,6 +22,12 @@ main:
     url: /kategorie/
     weight: 500
 
+  - identifier: style
+    name: Style
+    url: /style
+    weight: 505
+    parent: kategorie
+
   - identifier: instruments
     name: Instrumenty
     url: /instrumenty
