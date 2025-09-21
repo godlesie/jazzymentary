@@ -37,9 +37,13 @@
 {{- $res = $res | append $js.RelPermalink -}}
 {{- end -}}
 
- 
-
-{{- .Site.Config.Services.GoogleAnalytics.ID -}}
+ <!-- Google tag (gtag.js) -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-N0BJXX3FZR');
+</script>
 
 {{- $sw := resources.Get "js/sw.js" -}}
 {{- $sw = $sw | resources.ExecuteAsTemplate "sw.js" (dict "page" . "res" $res) -}}
