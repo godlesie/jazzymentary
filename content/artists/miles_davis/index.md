@@ -4,7 +4,7 @@ subtitle: "Miles Davis"
 description: "Miles Davis"
 type: post
 date: 2024-07-12T13:08:51+02:00
-style: [bebop, hard bop, cool, fusion, acid] 
+style: [bebop, hard bop, modal jazz, cool, fusion, acid] 
 instrumenty: [trąbka]
 born: 1926
 dead: 1991

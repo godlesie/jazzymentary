@@ -4,7 +4,7 @@ subtitle: "Horace Silver"
 description: "Horace Silver"
 type: post
 date: 2025-08-12T19:40:54+02:00
-style: [HardBop] 
+style: [Hard Bop] 
 instrumenty: [piano]
 born: 1928
 dead: 2014
