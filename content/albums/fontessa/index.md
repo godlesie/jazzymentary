@@ -32,4 +32,4 @@ europejskiej kompozycji z *jazzową* improwizacją.
 Kluczowym utworem albumu jest tytułowa __Fontessa__, zainspirowana włoską, renesansową *Commedia dell'arte* - formą teatru, w której aktorzy
 improwizują dialogi według ustalonego scenariusza. Inne utwory także operują syntezą różnych obszarów jazzowej tradycji.
 
-{{<youtube K7woxl6fKoc>}}
+{{<youtube-playlist id="OLAK5uy_mn_6rSw7l01eqX42FrUHpvNNTgsKQ5-y0">}}
