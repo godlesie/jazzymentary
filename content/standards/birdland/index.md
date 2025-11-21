@@ -17,7 +17,7 @@ dęta naśladująca brzmienie [Big Bandu]({{<ref "history/big_band">}}). Wybija 
 To, że nawet dziś utwór brzmi równie przebojowa jak wtedy, jest zasługą wyśmienitej kompozycji i fantastycznych partii solowych,
 mimo starzejących brzmień elektronicznych. Także teraz utwór pojawia się na różnych składankach i albumach hołdowniczych.
 Kilka odcinków kultowego programu edukacyjnego [Sonda](https://pl.wikipedia.org/wiki/Sonda_(program_telewizyjny)) użyło go
-jago czołówki.
+jako czołówki.
 
 {{<youtube _Fm10whccto>}}
 
