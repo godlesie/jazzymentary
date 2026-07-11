@@ -23,8 +23,7 @@ draft: false
 To ostatnia płyta [Counta Basiego]({{< ref "artists/count_basie" >}}). Dla mnie to kwintesesncja mariażu 
 [jazzu]({{< ref "history/jazz_definition" >}}), [bluesa]({{< ref "history/blues" >}}) i
 [Big Bandu]({{< ref "history/big_band" >}}). 
-Jest to, jak przystało
-na ostatni album, podsumowanie drogi artystycznej twórcy. Inne płyty [Counta]({{< ref "artists/count_basie" >}})
+Jest to, jak przystało na ostatni album, podsumowanie drogi artystycznej twórcy. Inne płyty [Counta]({{< ref "artists/count_basie" >}})
 mają lepsze notowania wśród krytyków, jednak ja tę właśnie uważam za najlepszą:
 
 
