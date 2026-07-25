@@ -16,7 +16,7 @@ track: [
     Shreveport Stomp,
     Stratford Hunch,
     Dead Man Blues,
-    "Grandpa's Spells",
+    Grandpa's Spells,
     Tin Roof Blues,
     London Blues,
     King Porter Stomp,
