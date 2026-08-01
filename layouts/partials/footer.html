@@ -31,7 +31,7 @@
         {{- end -}}
         {{ with .recents }}
         <ul>
-            {{ range first ($count) (where (where $.Site.Pages "Section" .) ".Kind" "==" "page" )}}
+            {{ range first 3 (where (where $.Site.Pages "Section" .) ".Kind" "==" "page" )}}
             <li>
                 <a href={{.Permalink}}>{{ default (.File.ContentBaseName | humanize) .Title }}</a> -
                 {{$date := .Date}}

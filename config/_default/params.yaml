@@ -7,16 +7,16 @@ copyright: "&copy; 2021-{now} [jgdlws](mailto:j.godlesie@gmail.com)"
 footer:
   - title: Historie
     recents: history
-    recentCount: 3
+    recentCount: 5
   - title: Artyści
     recents: artists
-    recentCount: 3
+    recentCount: 5
   - title: Albumy
     recents: albums
-    recentCount: 3
+    recentCount: 5
   - title: Standardy
     recents: standards
-    recentCount: 3
+    recentCount: 5
 
 outputs:
   home: 
