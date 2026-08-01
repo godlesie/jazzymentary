@@ -5,10 +5,6 @@ copyright: "&copy; 2021-{now} [jgdlws](mailto:j.godlesie@gmail.com)"
 
 
 footer:
-  #- title: O mnie
-  #  content: Jestem fascynatem jazzu od lat. 
-  #- title: Kontakt
-  #  contact: true
   - title: Historie
     recents: history
     recentCount: 3
