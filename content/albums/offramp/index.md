@@ -25,13 +25,12 @@ track: [
 ]
 draft: false
 ---
-Ten album był przełomem w karierze [Pata Metheny'ego]({{<ref "artists/pat_metheny">}}) i jedna z najważniejszych płyt
-nurtu [fusion]({{<ref "history/jazz_rock">}}) __jazzu__. Grupa weszła na drogę futurystycznych poszukiwań i elektroniki.
-To tam pojawił się pierwszy raz syntezator gitarowy *Rolland GR-300*, który zdefiniował brzmienie zespołu na kolejne
-dekady.
+W 1982 roku Pat Metheny Group znajdowało się w momencie, w którym wielu artystów postanowiłoby po prostu odcinać kupony od sukcesu „*American Garage*”. Zamiast tego [Metheny]({{<ref "artists/pat_metheny">}}) i __Lyle Mays__ postanowili skręcić w stronę brzmieniowego eksperymentu. Tytułowy „Offramp” (zjazd z autostrady) stał się dosłowną deklaracją: zjeżdżamy ze znanej trasy, by poszukać nowych krajobrazów.
 
-Właściwie każdy utwór to perełka. Od wprowadzającej *Barcarolli*, poprzez najważniejszą kompozycję w karierze __Pata__, wręcz
-taneczny *Are You Going with Me?*, walczykowaty *Au lait*, jasny i optymistyczny *Eighteen*, eksperymentalny i atonalny tytułowy
-*Offramp*, znowu optymistyczny, dedykowany *Jamesowi Taylorowi* *"James"* i kończący, oniryczny *"The Bat Part II"*.
+To właśnie na tej płycie po raz pierwszy słyszymy syntezator gitarowy *Roland GR-300* w tak bezkompromisowej, lirycznej roli. W rękach Metheny’ego synth-guitar przestała być nowinką technologiczną, a stała się instrumentem solowym o unikalnym i niesamowicie ekspresyjnym brzmieniu. Wspólnie z bogatą fakturą syntezatorów __Lyle'a Maysa__ stworzyli szeroką, filmową przestrzeń soundscape'ową.
+
+Technologia technologią, ale sercem rytmicznym tej płyty staje się genialny brazylijski perkusjonista __Naná Vasconcelos__. Jego wokalizy, berimbau i perkusjonalia nadały sterylnym niekiedy syntezatorom oddech, ciepło i organiczny puls.
+
+Album przyniósł grupie nagrodę *Grammy* (*Best Jazz Fusion Performance* w 1983 roku) i ugruntował pozycję __PMG__ jako zespołu wyznaczającego nowe granice w muzyce improwizowanej. Po ponad 40 latach *„Offramp”* nie zestarzał się ani trochę – nadal brzmi świeżo, nowatorsko i inspirująco.
 
 {{<youtube-playlist id="OLAK5uy_l8kCwvFjpxJwLecMx9Qx-GavPThRumgrA">}}
