@@ -1,9 +1,9 @@
 ---
 title: "Autumn Leaves"
 date: 2026-08-16T14:00:44+02:00
-subtitle: "anatomia jesiennej melancholii"
-summary: "anatomia jesiennej melancholii"
-description: "anatomia jesiennej melancholii"
+subtitle: "Jesienna melancholia"
+summary: "Jesienna melancholia"
+description: "Jesienna melancholia"
 styl: bebop
 type: standards
 year: 1945
@@ -28,7 +28,5 @@ Przez dekady „*Autumn Leaves*” nagrywano tysiące razy – od ballady po szy
 <u>__Keith Jarrett Trio__</u>. __Keith Jarrett__, __Gary Peacock__ i __Jack DeJohnette__ potrafili grać standardy tak, jakby komponowali je na nowo w czasie rzeczywistym. Ich koncertowe wersje „*Autumn Leaves*” tętnią niesamowitą energią, techniczną wirtuozerią i głębokim porozumieniem między muzykami.<br />
 <br />
 {{<youtube xydCX2C586o>}}
-
-
 
 {{< figure src="../../media/musescore/autumn_leaves.svg">}}
